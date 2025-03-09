@@ -29,7 +29,7 @@ This repository serves as a comprehensive collection of various machine learning
 - [x] Decision Trees – Classification and regression tasks
 - [x] Random Forest – Ensemble learning for better accuracy
 - [x] K-Means Clustering – Unsupervised learning for customer segmentation
-- [ ] Naïve Bayes – Text classification (e.g., spam filtering)
+- [x] Naïve Bayes – Text classification (e.g., spam filtering)
 - [ ] Support Vector Machines (SVM) – Handwriting and image classification
 - [ ] Neural Networks (MLP) – Deep learning for complex tasks
 - [ ] Gradient Boosting – Powerful ensemble methods
