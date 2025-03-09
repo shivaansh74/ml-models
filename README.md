@@ -37,8 +37,8 @@ This repository serves as a comprehensive collection of various machine learning
 - [x] Principal Component Analysis (PCA) – Dimensionality reduction
 - [x] Recurrent Neural Networks (RNN) – Time series and sentiment analysis
 - [x] Long Short-Term Memory (LSTM) – Stock market and sequential predictions
-- [ ] Natural Language Processing (NLP) – Chatbots, text summarization
-- [ ] Genetic Algorithms – Optimization problems
+- [x] Natural Language Processing (NLP) – Chatbots, text summarization
+- [x] Genetic Algorithms – Optimization problems
 - [ ] Gaussian Mixture Models (GMM) – Anomaly detection
 - [ ] Reinforcement Learning – Game playing and decision-making tasks
 
