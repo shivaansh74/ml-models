@@ -39,8 +39,8 @@ This repository serves as a comprehensive collection of various machine learning
 - [x] Long Short-Term Memory (LSTM) – Stock market and sequential predictions
 - [x] Natural Language Processing (NLP) – Chatbots, text summarization
 - [x] Genetic Algorithms – Optimization problems
-- [ ] Gaussian Mixture Models (GMM) – Anomaly detection
-- [ ] Reinforcement Learning – Game playing and decision-making tasks
+- [x] Gaussian Mixture Models (GMM) – Anomaly detection
+- [x] Reinforcement Learning – Game playing and decision-making tasks
 
 ## Getting Started
 1. Clone this repository
