@@ -35,8 +35,8 @@ This repository serves as a comprehensive collection of various machine learning
 - [x] Gradient Boosting – Powerful ensemble methods
 - [x] K-Nearest Neighbors (KNN) – Recommendation systems and classification
 - [x] Principal Component Analysis (PCA) – Dimensionality reduction
-- [ ] Recurrent Neural Networks (RNN) – Time series and sentiment analysis
-- [ ] Long Short-Term Memory (LSTM) – Stock market and sequential predictions
+- [x] Recurrent Neural Networks (RNN) – Time series and sentiment analysis
+- [x] Long Short-Term Memory (LSTM) – Stock market and sequential predictions
 - [ ] Natural Language Processing (NLP) – Chatbots, text summarization
 - [ ] Genetic Algorithms – Optimization problems
 - [ ] Gaussian Mixture Models (GMM) – Anomaly detection
