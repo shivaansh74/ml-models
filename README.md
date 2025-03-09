@@ -31,8 +31,8 @@ This repository serves as a comprehensive collection of various machine learning
 - [x] K-Means Clustering – Unsupervised learning for customer segmentation
 - [x] Naïve Bayes – Text classification (e.g., spam filtering)
 - [x] Support Vector Machines (SVM) – Handwriting and image classification
-- [ ] Neural Networks (MLP) – Deep learning for complex tasks
-- [ ] Gradient Boosting – Powerful ensemble methods
+- [x] Neural Networks (MLP) – Deep learning for complex tasks
+- [x] Gradient Boosting – Powerful ensemble methods
 - [ ] K-Nearest Neighbors (KNN) – Recommendation systems and classification
 - [ ] Principal Component Analysis (PCA) – Dimensionality reduction
 - [ ] Recurrent Neural Networks (RNN) – Time series and sentiment analysis
